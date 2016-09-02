@@ -1,6 +1,8 @@
 Arcade Controller Teensy Powered
 ================================
 
+![Overview of the controller](photos/controller.jpg?raw=true)
+
 This is the code running on a Teensy LC powering my arcade-style controller.
 There is 12 buttons in all, same as on a snes controller.
 
